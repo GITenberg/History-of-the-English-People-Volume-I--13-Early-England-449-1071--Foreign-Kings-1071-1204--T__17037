@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7099
     wikipedia: http://en.wikipedia.org/wiki/John_Richard_Green
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17037#History-of-the-English-People-Volume-I--13-Early-England-449-1071--Foreign-Kings-1071-1204--T_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2005-11-09'
 gutenberg_type: Text
